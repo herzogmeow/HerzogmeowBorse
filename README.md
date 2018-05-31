@@ -5,3 +5,6 @@
 ### Python 3.5 以上
 ### discord.py
 ### aiosqlite
+
+## 程式進入點
+### python3.5 run.py
